@@ -1,5 +1,5 @@
 ### test_main.py
-```python
+
 import json
 from unittest.mock import Mock
 import main
